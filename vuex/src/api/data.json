@@ -1,0 +1,53 @@
+{
+    "code": 1,
+    "hospital_list": [
+        {
+            "name": "北京医院",
+            "check_all": false,
+            "hospital_sub": [
+                {
+                    "sub_list": "牙",
+                    "price": 11000,
+                    "checked": false,
+                    "count": 1
+                },
+                {
+                    "sub_list": "齿",
+                    "price": 21100,
+                    "checked": false,
+                    "count": 1
+                },
+                {
+                    "sub_list": "白",
+                    "price": 10000,
+                    "checked": false,
+                    "count": 1
+                }
+            ] 
+        },
+        {
+            "name": "北京八维医院",
+            "check_all": false,
+            "hospital_sub": [
+                {
+                    "sub_list": "矫",
+                    "price": 12000,
+                    "checked": false,
+                    "count": 1
+                },
+                {
+                    "sub_list": "正",
+                    "price": 5000,
+                    "checked": false,
+                    "count": 1
+                },
+                {
+                    "sub_list": "牙",
+                    "price": 40000,
+                    "checked": false,
+                    "count": 1
+                }
+            ] 
+        }
+    ]
+}
